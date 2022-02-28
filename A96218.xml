@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The black book of Newgate, or, An exact collection of the most material proceedings at all the sessions in the Old baily, for eighteen months last past ... as also reflections and observations on several passages set forth as a warning to all that read it / by W.W. Gent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96218</idno>
+            <idno type="STC">Wing W140A</idno>
+            <idno type="STC">ESTC R43947</idno>
+            <idno type="EEBO-CITATION">42476396</idno>
+            <idno type="OCLC">ocm 42476396</idno>
+            <idno type="VID">151434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2259:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The black book of Newgate, or, An exact collection of the most material proceedings at all the sessions in the Old baily, for eighteen months last past ... as also reflections and observations on several passages set forth as a warning to all that read it / by W.W. Gent.</title>
+                  <author>W. W., Gent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D. M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With Allowance. Ro. L'Estrange."</note>
+                  <note>Reproduction of original in: Guildhall Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151434:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>The Black Book of <hi>Newgate:</hi> OR, AN EXACT COLLECTION OF THE Moſt material Proceedings AT ALL The SESSIONS in the <hi>Old baily,</hi> For Eighteen months laſt paſt.</p>
+            <p>Particularly relating to the Tryals of
+<list>
+                  <item>John Smith</item>
+                  <item>George Marſhall</item>
+                  <item>John Darkin</item>
+                  <item>Michael Jones</item>
+                  <item>Charles Potter</item>
+                  <item>Henry Seabrooke</item>
+                  <item>Elizabeth Longman</item>
+                  <item>Frances Watſon, alias Riggs.</item>
+                  <item>Charles Godfry</item>
+                  <item>Roger Withers</item>
+                  <item>Matthew Walkenden</item>
+                  <item>John Evans</item>
+                  <item>John Seabrooke</item>
+                  <item>William Minors</item>
+                  <item>Arthur Minors</item>
+                  <item>Richard Shaw</item>
+                  <item>Thomas Sadler</item>
+                  <item>William Johnſon</item>
+                  <item>Robert Dine</item>
+                  <item>William Dine and</item>
+                  <item>Margaret Dine</item>
+                  <item>Nicholas Throckmorton</item>
+                  <item>William Dennis</item>
+                  <item>Mary Hicks, &amp;c.</item>
+               </list>
+            </p>
+            <p>AS ALSO REFLECTIONS and OBSERVATIONS on ſeveral Paſſages.</p>
+            <p>Set forth for a Publick Warning to all that read it, by <hi>W. W.</hi> Gent.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                        <closer>
+                           <signed>Ro. L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:151434:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>The Proceedings at all the Seſsions in the <hi>Old-Bayly</hi> for Eighteen months laſt paſt.</head>
+            <p>THough this Collection was intended only for one year paſt before this preſent <hi>Aug.</hi> 1677, and thence (if encouraged by General Ac<g ref="char:EOLhyphen"/>ceptance) to be annually continued, yet we ſhall reflect a little further, and begin with.</p>
+            <div type="part">
+               <head>An account of the Seſſions before <hi>Eaſter</hi>-Term <hi>1676,</hi> beginning <hi>April</hi> the <hi>5th.</hi>
+               </head>
+               <p>There were then no fewer than Fifteen men and One woman Convicted <hi>(per Patriam)</hi> upon fair Tryals for their reſpective Crimes, who received ſen<g ref="char:EOLhyphen"/>tence of Death; of whom Eight of the leaſt noto<g ref="char:EOLhyphen"/>rious, by mercy of Authority, upon conſideration of Circumſtances, mediation of Friends, and ſolemn Engagements of future Amendment, obtained the gracious favour of Reprieves: the other Eight were executed <hi>April</hi> the 19th, their Names and Crimes as follows:</p>
+               <list>
+                  <item>
+                     <hi>John Smith, George Marſhall,</hi> and <hi>John Darkin,</hi> for Robbing the Pariſh-Church of St. <hi>Giles in the Fields,</hi>
+                     <pb n="3" facs="tcp:151434:2" rendition="simple:additions"/>
+                     <!-- PDF PAGE 2 -->and ſtealing ſeveral pieces of Plate, Communion-Chalices, <hi>&amp;c.</hi> which they performed by the help of and Engine of Villany, called a <hi>Betty,</hi> of incredible force for forcing open Doors, Locks, Bolts, <hi>&amp;c.</hi> this was made by <hi>Darkin,</hi> an extraordinary Artiſt at ſuch black works. Theſe Priſoners did aver in <hi>Newgate,</hi> that when they were got into the Veſtry and breaking open the Cheſts, a <hi>Spectrum</hi> or Apparition did viſibly ſtand before them; but ſo reſolved they were on their wicked Deſigne, that even the Devil himſelf could not ſcare them from it.</item>
+                  <item>
+                     <hi>Michael Jones</hi> and <hi>Charles Potter,</hi> for a Burglary and Robbery in <hi>Dukes-place,</hi> taking away ſeveral bags of Money, Plate, Cloaths, <hi>&amp;c. Jones</hi> at <hi>Tyburn</hi> made a very penitent Speech, declaring how Idleneſs, Diſobedience to his Parents, Ill Company, and lewd Women, firſt brought him into bad Courſes, and con<g ref="char:EOLhyphen"/>ſequently to this untimely Death.</item>
+                  <item>
+                     <hi>John Maxfield,</hi> for robbing a Brick-maker in <hi>Frog-lane,</hi> whom he and his Crew barbarouſly ſtript na<g ref="char:EOLhyphen"/>ked. He was about a fortnight afterwards taken by the Watch, (or rather by their Dogs, for had it not been for them he had eſcaped) being, 'tis probable, going again on the like Deſigne.</item>
+                  <item>
+                     <hi>Anthony Tailor</hi> for a Felony and Burglary, and <hi>Elizabeth Simmonds,</hi> for murdering her Baſtard-childe, which ſhe threw into a Pond.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>At the Seſſions after <hi>Eaſter</hi>-Term <hi>1676,</hi> holden the <hi>10th</hi> and <hi>11th</hi> of <hi>May,</hi>
+               </head>
+               <p>There was Nine Condemned, but Five Executed; and of thoſe, Three Condemned the Seſſions before,
+<pb n="4" facs="tcp:151434:3"/>
+                  <!-- PDF PAGE 3 -->viz. <hi>Henry Seabrook</hi> concerned in the ſaid Robbery in <hi>Dukes-place,</hi> but repriev'd, pretending to diſcover the reſt of the Cabal; which not making good, he was now executed.</p>
+               <p>
+                  <hi>Robert Scott</hi> for Felony and Burglary: He had been indicted and acquitted one Seſſions, convicted and burnt in the hand next Seſſions, condemned and repriev'd laſt Seſſions, and now, though a Priſoner, found to contrive and abet Rogueries abroad, and thereupon hang'd out of the way.</p>
+               <p>
+                  <hi>Elizabeth Longman,</hi> an old and impudent Offen<g ref="char:EOLhyphen"/>der, having been above Twelve times in <hi>Newgate,</hi> ſhe had been lately tranſported; but returning, ſtole a great quantity of Silks; for which ſhe was Convicted laſt Seſſions, and employ'd <hi>Edward Wall</hi> and <hi>Edward Ruſſel</hi> to engage a Gentleman of Quality to ſolicite a Reprieve for one of her Companions. In this Gen<g ref="char:EOLhyphen"/>tleman's Lodgings they obſerv'd abundance of Plate, and ſpeaking of it, this <hi>Beſs Longman</hi> cries, <hi>And did you onely ſee it? you dull Fools, go take it into poſ<g ref="char:EOLhyphen"/>ſeſſion:</hi> Which, at her inſtigation they effected; but being young Thieves, were ſoon diſcovered; plea<g ref="char:EOLhyphen"/>ded guilty to the Indictment, and now ſuffer'd with her.</p>
+            </div>
+            <div type="part">
+               <head>At a Seſſions the <hi>28th</hi> of <hi>June 1676.</hi>
+               </head>
+               <p>Three men and Two women received ſentence of Death, but onely Four ſuffered, viz. <hi>Alexander After</hi> and <hi>Thomas Fowler,</hi> for Robbery on the Highway, be<g ref="char:EOLhyphen"/>ing Rogues of the Foot-pad that uſed to pillage Market-women, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Richard Hazlegrove</hi> for having Two Wives: Up<g ref="char:EOLhyphen"/>on his Conviction he prayed the benefit of his Cler<g ref="char:EOLhyphen"/>gy,
+<pb n="5" facs="tcp:151434:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 3 -->which was granted; but not being able to read, was Condemned and Executed: A Caſe that ſeems a little ſevere; but ſo the Law directs: which may admoniſh Parents to beſtow, and Children to ſtudy at leaſt to read well, ſince ſometimes a man loſes his life meerly for want of it.</p>
+               <p>The fourth was famous <hi>Frances Watſon,</hi> otherwiſe called Mrs. <hi>Riggs</hi> the younger. Thieving had been her Trade from her infancy; her Mother often Con<g ref="char:EOLhyphen"/>demn'd, and then under Tranſportation; one or two of her Brothers, and ſeveral pretended Huſbands or Gallants hang'd; to which ſhe brought her ſelf now by her own ſimplicity: For, lying for Tranſportati<g ref="char:EOLhyphen"/>on, ſhe ſent for ſeveral people ſhe had robb'd to get money of them, under pretence of helping them to their Goods again; not doubting but ſhe was ſafe now from being indicted for them: but therein her <hi>Newgate</hi>-Counſel fail'd her; for her pardon exten<g ref="char:EOLhyphen"/>ded onely to remit the Crime for which ſhe was con<g ref="char:EOLhyphen"/>victed: So that ſhe was now arraigned afreſh, and found guilty upon her own Confeſſion, and ſo fol<g ref="char:EOLhyphen"/>lowed the fate of her Family.</p>
+            </div>
+            <div type="part">
+               <head>At the Seſſions <hi>Aug. 23,</hi> &amp;c. <hi>1676.</hi>
+               </head>
+               <p>Sixteen Condemn'd, onely Eight ſuffered, viz. <hi>Tho. Moore,</hi> and <hi>James Parker</hi> Convicted of a Felony, which appeared to the Court to be a Burglary at <hi>Cue</hi> in <hi>Surry;</hi> and ſo excluding benefit of Clergy, one of them refuſing to plead till he was put into the Preſs, and ſo bruiſed, that without further Execution, 'tis thought he would not have ſurviv'd.</p>
+               <p>
+                  <hi>Charles Godfry</hi> and <hi>Rogers Withers</hi> for a like Crime commit<g ref="char:EOLhyphen"/>ted in <hi>Hartfordſhire;</hi> but being taken in <hi>Middleſex</hi> with ſome of the Goods about them, were tryable here.</p>
+               <p>
+                  <hi>Richard Cook, Matthew Walkenden,</hi> and <hi>Martha Harman,</hi>
+                  <pb n="6" facs="tcp:151434:4"/>
+                  <!-- PDF PAGE 4 -->for ſeveral Burglaries. The later was a matchleſs young piece of Confidence, who broke open a houſe at <hi>Iſlington;</hi> a Crime rarely attempted by that Sex: ſhe had four times before been tryed for ſeveral Offences, but now could not obtain further indulgence.</p>
+               <p>The laſt was <hi>John Evans,</hi> a lad not above Fifteen years of age, but old in Roguery: He had ſeveral Indictments for Fe<g ref="char:EOLhyphen"/>lonies againſt him, and had been both whipt and burnt in the hand before.</p>
+            </div>
+            <div type="part">
+               <head>At the Seſſions <hi>11th</hi> of <hi>October 1676.</hi>
+               </head>
+               <p>Sixteen in all received ſentence of Death, but onely Five Ex<g ref="char:EOLhyphen"/>ecuted. The moſt remarkable buſineſs was the Tryal of <hi>Hen<g ref="char:EOLhyphen"/>ry Graves</hi> for murdering one <hi>William Parker</hi> a Ditcher at <hi>I<g ref="char:EOLhyphen"/>ſlington.</hi> The Priſoner and his Brother (not then taken) fell upon him without cauſe, ſwore they would beat out his brains, and with a ſtake did at laſt kill him; yet the Jury, for I know not what reaſons, found it only Manſlaughter: but Providence not ſuffering Murder ſo to eſcape, when he came to his Book, though a pretty good Scholar, and well tutor'd before, yet he could not read a word, and thereupon was deſervedly hang'd.</p>
+               <p>The other four were <hi>John Seabrook, William Minors, Arthur Minors,</hi> and <hi>Richard Shaw,</hi> for ſeveral Burglaries and Felonies.</p>
+            </div>
+            <div type="part">
+               <head>At the Seſſions held <hi>Jan.</hi> the <hi>17th 1676/7.</hi>
+               </head>
+               <p>There were Two Condemned, a woman of above Forty years of age for murdering her Baſtard-childe, who was Exe<g ref="char:EOLhyphen"/>cuted, and a man for Perſonating another man as Bail before a Judge, who at the Gallows received a gracious Reprieve. At this time was that blaſphemous Impoſtor <hi>Lodowick Mug<g ref="char:EOLhyphen"/>gleton</hi> tryed, and ſentenced to ſtand three days in the Pillory, his Books to be burnt before his face, to pay Five hundred pounds fine, and give Bail (not of his own Party or Gang) for his good behaviour.</p>
+            </div>
+            <div type="part">
+               <head>At the Seſſions <hi>7th</hi> of <hi>March 1676/7.</hi>
+               </head>
+               <p>Was Tryed and Executed the renouned <hi>Thomas Sadler,</hi> and
+<pb n="7" facs="tcp:151434:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 4 -->
+                  <hi>William Johnſon,</hi> for a Burglary in the houſe of the Lord High Chancellor of <hi>England,</hi> and ſtealing the Mace and two Purſes. <hi>Sadler</hi> as he had lived impudently, ſo he died pitifully, and with little generoſity of Spirit; but <hi>Johnſon,</hi> with a becoming reſolution and ſtaid temper that at once ſhew'd his ſenſe of his ſins, and faith in his Saviour, made a very repentant and pithy Diſcourſe at the place of Execution, endeavouring to warn all others by his Example, <hi>&amp;c.</hi> At the ſame time there ſuffered <hi>Francis Webb, Matthew Gammond,</hi> and <hi>Anthony Richoake,</hi> for ſeveral Burglaries: There being in all Fifteen Condemned, the reſt obtained Reprieves.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Seſſions</hi> 25th <hi>of</hi> April 1677.</head>
+               <p>Was famous for the Tryal, Condemnation, and Execution of <hi>Robert, William,</hi> and <hi>Margaret Dine,</hi> two own brothers and a ſiſter, for disfiguring, and in a barbarous manner mangling the Noſe and Face of one <hi>Jane King,</hi> contrary to the late Act of Parliament in that behalf. They all abſolutely perſiſted to deny the doing this cruel fact, and aſſerted their innocency to the laſt gaſp, and died very much pitied by many people that knew them. At the ſame time ſuffered one <hi>Margaret Spicer</hi> for murdering her Baſtard-childe: As alſo <hi>David Hackley, Je<g ref="char:EOLhyphen"/>remiah Dawſon,</hi> and <hi>Mary Brown,</hi> all notorious Offenders, and formerly burnt in the hand, now convicted of ſeveral Felo<g ref="char:EOLhyphen"/>nies.</p>
+            </div>
+            <div type="part">
+               <head>The Seſſions the firſt of <hi>June 1677.</hi>
+               </head>
+               <p>There were then Condemned Mr. <hi>Nicholas Throckmorton,</hi> for robbing two Miniſters on the road three miles on this ſide <hi>
+                     <g ref="char:V">Ʋ</g>xbridge;</hi> taken by the moſt commendable courage of one of the Miniſters men, who alone fought with the Priſoner and his Companion for above half an hour; and at laſt with the help of his Maſter, moved (though without a Weapon) by his ſer<g ref="char:EOLhyphen"/>vant's brave defence, to aſſiſt him what he could, made one of the Thieves ride away, and took the other. He ſuffered very penitently on the 13th of <hi>June:</hi> At which time was likewiſe Executed <hi>William Dennis</hi> for murdering a poor Tub-man, who being in a furious paſſion againſt his Wife, and having beat her
+<pb n="8" facs="tcp:151434:5"/>
+                  <!-- PDF PAGE 5 -->exceedingly, a Croud of people were gathered about; where<g ref="char:EOLhyphen"/>upon taking down an Half-pike, he ſwore he would kill ſome of them; and accordingly diſpatcht this harmleſs man, ſitting on his Water-tubs, without the leaſt provocation. Which may teach all men to moderate their paſſions, and not let them run unbridled to miſchief, leſt thereby they bring themſelves to ſome ſuch ſhameful End.</p>
+            </div>
+            <div type="part">
+               <head>The laſt Seſſions in <hi>July 1677.</hi>
+               </head>
+               <p>Was ſufficiently crouded to hear the Tryal of that Monſter, rather than woman, <hi>Mary Hicks,</hi> who ſuffer'd her ſelf to be Buggered by a Mungril. This deteſtable Villany was ſuffici<g ref="char:EOLhyphen"/>ently proved by Three witneſſes; and for the ſame, the vile wretch was executed on the 18th of <hi>July,</hi> the Dog being car<g ref="char:EOLhyphen"/>ried along with her in the Cart, and hang'd upon a Tree neer the Gallows before her face.</p>
+               <p>One of the Evidence being great with Childe, there has been a ſcandalous Report ſpread abroad; that the ſame day this wo<g ref="char:EOLhyphen"/>man ſuffer'd, ſhe ſhould fall in Labour, and not being able to be delivered, confeſs that ſhe had herein forſworn her ſelf out of malice; which Report, and others to the ſame effect, are ut<g ref="char:EOLhyphen"/>terly falſe and groundleſs; the ſaid Witneſs continuing in per<g ref="char:EOLhyphen"/>fect health, and well ſatisfi'd in the integrity of her Teſti<g ref="char:EOLhyphen"/>mony.</p>
+               <p>The ſame day ſuffered <hi>John Gimbold</hi> and <hi>Mary Ruſſel,</hi> both old incorrigible Offenders, and now Condemned for ſeveral Felonies.</p>
+               <epigraph>
+                  <q xml:lang="lat">
+                     <l>Foelix quem faciunt aliena pericula cautum.</l>
+                  </q>
+                  <q xml:lang="eng">
+                     <l>Happy's the man that learns by others harms,</l>
+                     <l>And 'gainſt ſuch fatal Crimes his Spirit arms.</l>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+               <pb n="8" facs="tcp:151434:6"/>
+               <!-- PDF PAGE 6 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
